@@ -1,0 +1,13 @@
+{
+  "name": "rps-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ibukun53/rps-game.git",
+  "author": "Blessing Olusanya <debbyblessing1234@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^8.52.0",
+    "prettier": "^3.0.3",
+    "stylelint": "^15.11.0"
+  }
+}
